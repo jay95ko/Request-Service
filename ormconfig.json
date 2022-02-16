@@ -1,0 +1,10 @@
+{
+  "type": "mysql",
+  "host": "nodestudy-team2.cluster-cehy0i4lfsmd.ap-northeast-2.rds.amazonaws.com",
+  "port": 3306,
+  "username": "study",
+  "password": "study123!",
+  "database": "study",
+  "entities": ["dist/**/*.entity{.ts,.js}"],
+  "synchronize": true
+}
